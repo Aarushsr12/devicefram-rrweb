@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "type": "scroll",
+      "timestamp": 1731646277646,
+      "description": "Scroll to (0, 0)",
+      "position": { "x": 0, "y": 0 }
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646277682,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646277683,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646277920,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278420,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278452,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278454,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278552,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278554,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278921,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646278942,
+      "description": "User input in element undefined",
+      "value": "*"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279009,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279175,
+      "description": "User input in element undefined",
+      "value": "**"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279339,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279344,
+      "description": "User input in element undefined",
+      "value": "***"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279451,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279455,
+      "description": "User input in element undefined",
+      "value": "****"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279478,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279733,
+      "description": "User input in element undefined",
+      "value": "*****"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279769,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646279863,
+      "description": "User input in element undefined",
+      "value": "******"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280284,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280609,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280610,
+      "description": "User input in element undefined",
+      "value": "*****"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280611,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280612,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280720,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280722,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280786,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646280979,
+      "description": "User input in element undefined",
+      "value": "*"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281011,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281070,
+      "description": "User input in element undefined",
+      "value": "**"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281085,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281130,
+      "description": "User input in element undefined",
+      "value": "***"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281372,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281407,
+      "description": "User input in element undefined",
+      "value": "****"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281485,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281487,
+      "description": "User input in element undefined",
+      "value": "*****"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281518,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281528,
+      "description": "User input in element undefined",
+      "value": "******"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281695,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281699,
+      "description": "User input in element undefined",
+      "value": "*******"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281743,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646281785,
+      "description": "User input in element undefined",
+      "value": "********"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282177,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282544,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282544,
+      "description": "User input in element undefined",
+      "value": "*******"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282545,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282545,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282657,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282658,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646282679,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646283181,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646283274,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646283274,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646283275,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646283378,
+      "description": "User input in element undefined"
+    },
+    {
+      "type": "input",
+      "timestamp": 1731646283378,
+      "description": "User input in element undefined"
+    }
+  ]
+}
