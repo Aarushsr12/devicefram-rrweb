@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devicefram-rrweb/static/css/main.bd788567.css",
+    "main.js": "/devicefram-rrweb/static/js/main.66f5ba1a.js",
+    "static/js/453.ed3810f9.chunk.js": "/devicefram-rrweb/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/devicefram-rrweb/index.html",
+    "main.bd788567.css.map": "/devicefram-rrweb/static/css/main.bd788567.css.map",
+    "main.66f5ba1a.js.map": "/devicefram-rrweb/static/js/main.66f5ba1a.js.map",
+    "453.ed3810f9.chunk.js.map": "/devicefram-rrweb/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd788567.css",
+    "static/js/main.66f5ba1a.js"
+  ]
+}
